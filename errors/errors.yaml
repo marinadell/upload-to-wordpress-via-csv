@@ -1,0 +1,47 @@
+# Uses of {dist-name} will be replaced with the associated
+# distributor account's name.
+
+:invalid-password:
+  title: Invalid Credentials
+  cta-text: Update Login Information
+  error-text: >
+    We are unable to log in to your {dist-name} account. 
+    Please enter your {dist-name} username and updated password.
+
+:password-reset-required:
+  title: Password Reset Required
+  cta-text: Reset Distributor Password
+  error-text: >
+    Your {dist-name} password needs to be reset.
+
+:click-location-link:
+  title: Incorrect DCN
+  cta-text: Update Customer Number
+  error-text: >
+    Your {dist-name} Customer Number cannot be found.
+    Please update your Customer Number.
+
+:account-disabled:
+  title: Account Disabled
+  cta-text: Fix Account
+  error-text: >
+    Your {dist-name} account appears to be locked or disabled.
+    Please contact them to re-enable your account.
+
+:account-locked:
+  title: Account Locked
+  cta-text: Fix Account
+  error-text: >
+    Your {dist-name} account appears to be locked or disabled. Please contact them to re-enable your account.
+
+:missing-permissions:
+  title: Missing Account Permissions
+  cta-text: Fix Account
+  error-text: >
+    We can't access your {dist-name} account. Please contact {dist-name} and request access to export files of your past purchases.
+
+:requires-user-agreement:
+  title: Requires User Agreement
+  cta-text: Fix Account
+  error-text: >
+    Your {dist-name} account is not yet activated. Please log into your distributor account to activate.

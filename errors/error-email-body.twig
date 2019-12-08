@@ -1,0 +1,9 @@
+Error Email Body
+
+{% for error in errors %}
+    <div>
+        <p> {{ error.getErrorTitle }} </p>
+        <p> {{ error.getStatusText }} </p>
+        <p> {{ error.getDCN }} </p>
+    </div>
+{% endfor %}

@@ -1,0 +1,14 @@
+{
+    "name": "clockwork/fsr-be-wp-plugin",
+    "require": {
+        "symfony/yaml": "^4.3"
+    },
+    "require-dev": {
+        "codeception/codeception": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "FsrImporter\\Errors\\": "errors"
+        }
+    }
+}
